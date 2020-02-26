@@ -1,0 +1,10 @@
+$PrimaryBtn : rgb(182, 56, 153);
+$TextColor : rgb(43, 43, 43);
+
+@import "./header";
+
+.contact {
+   @include flexCenter(row, blue);
+}
+
+
